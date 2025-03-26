@@ -1,5 +1,7 @@
 # seed Classification
 
+Here we have built an interface for farmers to analyse the qulity of seed 
+
 ## Setup for Python:
 
 1. Install Python ([Setup instructions](https://wiki.python.org/moin/BeginnersGuide))
